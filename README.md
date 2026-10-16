@@ -7,8 +7,7 @@
 **Transformando ideias em soluções inteligentes com Python, IA e automação.**
 
 <p>
-  Formando em Análise e Desenvolvimento de Sistemas na Infnet,
-  apaixonado por tecnologia, inteligência artificial e desenvolvimento de software.
+  Apaixonado por tecnologia, inteligência artificial e desenvolvimento de software.
 </p>
 
 <a href="https://github.com/rafael-orequio">
