@@ -66,12 +66,6 @@ O projeto busca integrar diferentes tecnologias para criar uma experiência de a
 
 ---
 
-**Tecnologias:** React, Vite, Go e API REST.
-
-> O objetivo do projeto é colocar em prática conceitos de desenvolvimento web, integração entre sistemas e organização de aplicações.
-
----
-
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
