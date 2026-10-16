@@ -76,7 +76,7 @@ O projeto busca integrar diferentes tecnologias para criar uma experiência de a
 
 ### Desenvolvimento e ferramentas
 
-<img src="https://skillicons.dev/icons?i=react,vite,mysql,git,github,vscode,claude" alt="Tecnologias e ferramentas">
+<img src="https://skillicons.dev/icons?i=react,vite,mysql,git,github,vscode" alt="Tecnologias e ferramentas">
 
 </div>
 
