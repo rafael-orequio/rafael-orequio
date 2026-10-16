@@ -2,7 +2,7 @@
 
 # Rafael Orequio
 
-### 🤖 AI & Automation Developer
+### 🤖 Formando em Análise e Desenvolvimento de Sistemas | Python, IA e Automação
 
 **Transformando ideias em soluções inteligentes com Python, IA e automação.**
 
