@@ -66,20 +66,6 @@ O projeto busca integrar diferentes tecnologias para criar uma experiência de a
 
 ---
 
-### 💻 Veritas — Aplicação Full Stack
-
-Projeto de desenvolvimento full stack que explora a construção de uma aplicação web para gerenciamento de tarefas.
-
-O projeto combina uma interface interativa com um backend responsável pelas operações e pela comunicação via API REST.
-
-**Principais recursos:**
-- ⚛️ Interface desenvolvida com React.
-- 🔧 Backend desenvolvido em Go.
-- 🔄 API REST com operações CRUD.
-- ✅ Validação de dados.
-- ⚠️ Tratamento de carregamento e erros.
-- 🔗 Integração entre frontend e backend.
-
 **Tecnologias:** React, Vite, Go e API REST.
 
 > O objetivo do projeto é colocar em prática conceitos de desenvolvimento web, integração entre sistemas e organização de aplicações.
