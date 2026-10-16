@@ -72,7 +72,7 @@ O projeto busca integrar diferentes tecnologias para criar uma experiência de a
 
 ### Linguagens de programação
 
-<img src="https://skillicons.dev/icons?i=python,go,js,java,csharp,html,css" alt="Linguagens de programação">
+<img src="https://skillicons.dev/icons?i=python,go,js,java,html,css" alt="Linguagens de programação">
 
 ### Desenvolvimento e ferramentas
 
