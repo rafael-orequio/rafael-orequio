@@ -7,7 +7,7 @@
 **Transformando ideias em soluções inteligentes com Python, IA e automação.**
 
 <p>
-  Estudante de Análise e Desenvolvimento de Sistemas no Infnet,
+  Formando em Análise e Desenvolvimento de Sistemas no Infnet,
   apaixonado por tecnologia, inteligência artificial e desenvolvimento de software.
 </p>
 
